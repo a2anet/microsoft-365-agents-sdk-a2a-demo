@@ -1,0 +1,4 @@
+microsoft-agents-hosting-aiohttp
+a2a-sdk[http-server]==0.3.26
+uvicorn
+httpx
