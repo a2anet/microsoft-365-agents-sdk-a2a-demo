@@ -1,6 +1,10 @@
 # Microsoft 365 Agents SDK - A2A Demo
 
-A demo showing how the Microsoft 365 Agents SDK can serve as an adapter to make an [A2A (Agent-to-Agent)](https://google.github.io/A2A/) protocol agent accessible through Microsoft Teams and Copilot 365.
+A demo showing how the [Microsoft 365 Agents SDK]() can serve as an adapter to make an [A2A protocol](https://a2a-protocol.org) agent accessible through Microsoft Teams and Copilot 365.
+
+## Video Demo
+
+Watch [Microsoft 365 Agents SDK A2A Demo](https://youtu.be/lVJO2cMJeIc) on YouTube.
 
 ## Architecture
 
